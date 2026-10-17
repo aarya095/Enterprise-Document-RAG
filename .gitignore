@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Persistent vector database
+data/chroma_db/
+
+# Environment variables
+.env
+
+# Editor settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
